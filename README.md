@@ -1,4 +1,4 @@
 # EDS124BR
 ## Public portfolio for videos and projects for EDS 124BR Teaching Computational Thinking for Everyone
 
-Module 1: Explain Your Code: https://youtu.be/EkwotwDabGE
+Please refer to the different folders to view processes of each block code.
